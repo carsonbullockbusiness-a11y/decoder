@@ -1,42 +1,78 @@
 {
  "brand": "Higgsfield",
- "built_at_pt": "2026-10-10 15:53 PT",
+ "built_at_pt": "2026-10-10 17:50 PT",
  "note": "median_views/likes_per_1k use campaign reels with a public view count (TikTok). IG reels have likes but no public view count without a login.",
  "formats": [
   {
-   "name": "Made with Genjutsu showcase",
-   "description": "Pure AI-generated cinematic/animated clip, caption 'Made with Higgsfield Genjutsu', little or no talking",
-   "count": 8,
-   "creators": 5,
-   "n_with_views": 7,
-   "median_views": 17724,
-   "vs_deal": 25.7,
+   "name": "'Get me out of this class' prof meme",
+   "description": "AI-generated classroom clip shot as a student POV meme; on-screen text like 'GET ME OUT OF THIS CLASS', 'WTF is my prof on?', 'who's ordering mid lecture'; the professor does something absurd (asks your screen time, flexes cash)",
+   "count": 33,
+   "creators": 27,
+   "n_with_views": 33,
+   "median_views": 109300,
+   "vs_deal": 38.7,
    "too_few_to_call": false,
-   "median_likes_per_1k": 48.4,
+   "median_likes_per_1k": 37.4,
    "best_examples": [
     {
-     "url": "https://www.tiktok.com/@podcast_kotov/video/7692429226842049823",
-     "creator": "podcast_kotov",
-     "views": 364100
+     "url": "https://www.tiktok.com/@larpingwgio/video/7689268419199274292",
+     "creator": "larpingwgio",
+     "views": 3100000
     },
     {
-     "url": "https://www.tiktok.com/@bellvtrix.ai/video/7694567656921419029",
-     "creator": "bellvtrix.ai",
-     "views": 357400
+     "url": "https://www.tiktok.com/@ai.withsam.mp4/video/7685210787333426453",
+     "creator": "ai.withsam.mp4",
+     "views": 1800000
     },
     {
-     "url": "https://www.tiktok.com/@bellvtrix.ai/video/7694567553607175444",
-     "creator": "bellvtrix.ai",
-     "views": 47500
+     "url": "https://www.tiktok.com/@createwfemi/video/7689635610138529045",
+     "creator": "createwfemi",
+     "views": 1700000
     }
    ],
    "copy_this": {
-    "source_url": "https://www.tiktok.com/@podcast_kotov/video/7692429226842049823",
-    "creator": "podcast_kotov",
-    "views": 364100,
+    "source_url": "https://www.tiktok.com/@larpingwgio/video/7689268419199274292",
+    "creator": "larpingwgio",
+    "views": 3100000,
     "note": "Lines are the best example's real transcript and on-screen text, word for word (not written by AI).",
-    "on_screen_text": "TikTok | @podcast_kotov",
-    "skeleton": []
+    "on_screen_text": "BUILOING | why did my prof say that | TikTok | @larpingwgio | late to class | OF | BUILDING | epreneurship | well | preneurship | action | and my dad's",
+    "skeleton": [
+     {
+      "part": "Hook",
+      "t": 0.0,
+      "line": "Why are you late to class? Well, I'm sorrysiied... 4. 6. 8. 6. 6."
+     },
+     {
+      "part": "Method",
+      "t": 9.6,
+      "line": "6. 6. 6. 7. 7. 8 4."
+     },
+     {
+      "part": "Method",
+      "t": 22.5,
+      "line": "6. 8. 5. 8. 5. 6. 6."
+     },
+     {
+      "part": "Method",
+      "t": 28.0,
+      "line": "6. 6. chat G GPT and Higgs Flutter Connect. Now, upload the screenshot to chat type at Higgs field and ask it to create me a book like this. I can sell for $10 on Amazon and hit."
+     },
+     {
+      "part": "Benefit",
+      "t": 38.6,
+      "line": "After 5 minutes, I have I I am going to Amazon KDP and submit your coloring book Once the book is approved, Amazon handles the printing and the shipping And are making thousands of dollars from parents who want to spoil their kids Let's test to see if this old-ass professor is on to something"
+     },
+     {
+      "part": "Method",
+      "t": 55.4,
+      "line": "Go to Amazon and find any popular ask it to make you a coloring book that you can sell for $10. Just make sure you're using Astra. After a few minutes, you'll get a coloring book like this that that you can sell to Amazon KDP, which handles the printing and shipping for you."
+     },
+     {
+      "part": "CTA",
+      "t": 78.1,
+      "line": "And once your book is approved, you're now in title title to 50 to 60% in royalties. this old man might be up to something so I'm gonna upload a book and update you guys in 28 days. And if you're a full guide on how I do this, comment on Astra and I got you."
+     }
+    ]
    },
    "carson": {
     "count": 0,
@@ -44,38 +80,38 @@
    }
   },
   {
-   "name": "'Day N of trying random side hustles'",
-   "description": "Numbered daily series trying side hustles, today's is the Higgsfield method",
-   "count": 6,
-   "creators": 4,
-   "n_with_views": 5,
-   "median_views": 3082,
-   "vs_deal": 4.5,
+   "name": "Made with Genjutsu showcase",
+   "description": "Pure AI-generated cinematic/animated clip, caption 'Made with Higgsfield Genjutsu', little or no talking",
+   "count": 27,
+   "creators": 18,
+   "n_with_views": 26,
+   "median_views": 57654.0,
+   "vs_deal": 20.4,
    "too_few_to_call": false,
-   "median_likes_per_1k": 18.2,
+   "median_likes_per_1k": 25.2,
    "best_examples": [
     {
-     "url": "https://www.tiktok.com/@buildingwithdrei/video/7694485899505159432",
-     "creator": "buildingwithdrei",
-     "views": 4242
+     "url": "https://www.tiktok.com/@yaaaraaart/video/7692791824099953938",
+     "creator": "yaaaraaart",
+     "views": 1500000
     },
     {
-     "url": "https://www.instagram.com/reel/DeQWlTXKTyE/",
-     "creator": "daneautomates",
-     "views": 3582
+     "url": "https://www.instagram.com/reel/DeRKvUAhq7W/",
+     "creator": "bloodloverdu",
+     "views": 400371
     },
     {
-     "url": "https://www.instagram.com/reel/DeQf19nq1IP/",
-     "creator": "daneautomates",
-     "views": 3082
+     "url": "https://www.tiktok.com/@podcast_kotov/video/7692429226842049823",
+     "creator": "podcast_kotov",
+     "views": 364100
     }
    ],
    "copy_this": {
-    "source_url": "https://www.tiktok.com/@buildingwithdrei/video/7694485899505159432",
-    "creator": "buildingwithdrei",
-    "views": 4242,
+    "source_url": "https://www.tiktok.com/@yaaaraaart/video/7692791824099953938",
+    "creator": "yaaaraaart",
+    "views": 1500000,
     "note": "Lines are the best example's real transcript and on-screen text, word for word (not written by AI).",
-    "on_screen_text": "Day 32 of trying | random side hustles | HIGGSFIELDHUSTLES | JHETA ADS | CHILDRENS BOOKS | TikTokJInS | @buildingwithdrei | randomsidehustles | Higgsfield | CLIPBING | HOMMY ASHR | JTikTokFANS | random sidehustles | ISHOWSPEED | ROBLOX | METAADS | TikTOKIORTS",
+    "on_screen_text": "",
     "skeleton": []
    },
    "carson": {
@@ -86,36 +122,36 @@
   {
    "name": "AI influencer that doesn't exist",
    "description": "Shows a viral AI-generated influencer/character and tells viewers they can create their own",
-   "count": 4,
-   "creators": 4,
-   "n_with_views": 4,
-   "median_views": 40828.5,
-   "vs_deal": 59.1,
-   "too_few_to_call": true,
-   "median_likes_per_1k": 32.0,
+   "count": 30,
+   "creators": 24,
+   "n_with_views": 30,
+   "median_views": 8031.0,
+   "vs_deal": 2.8,
+   "too_few_to_call": false,
+   "median_likes_per_1k": 31.0,
    "best_examples": [
     {
-     "url": "https://www.instagram.com/reel/DeH7gNAOsvA/",
-     "creator": "johngoldcreates",
-     "views": 334156
-    },
-    {
-     "url": "https://www.instagram.com/reel/DeKW9glsdr0/",
-     "creator": "sferro21",
-     "views": 76651
-    },
-    {
-     "url": "https://www.tiktok.com/@samuelinternetmon/video/7694483860364463381",
+     "url": "https://www.tiktok.com/@samuelinternetmon/video/7693754405593632020",
      "creator": "samuelinternetmon",
-     "views": 5006
+     "views": 1600000
+    },
+    {
+     "url": "https://www.tiktok.com/@director_jano/video/7692511838684106017",
+     "creator": "director_jano",
+     "views": 1000000
+    },
+    {
+     "url": "https://www.tiktok.com/@samuelinternetmon/video/7690432299812359445",
+     "creator": "samuelinternetmon",
+     "views": 505100
     }
    ],
    "copy_this": {
-    "source_url": "https://www.instagram.com/reel/DeH7gNAOsvA/",
-    "creator": "johngoldcreates",
-    "views": 334156,
+    "source_url": "https://www.tiktok.com/@samuelinternetmon/video/7693754405593632020",
+    "creator": "samuelinternetmon",
+    "views": 1600000,
     "note": "Lines are the best example's real transcript and on-screen text, word for word (not written by AI).",
-    "on_screen_text": "Whoa | looking | they",
+    "on_screen_text": "TikTok | les presento a mopriel | @samuelinternetmon | yobviamente | @samuelinternetmor | élnoesreal",
     "skeleton": []
    },
    "carson": {
@@ -126,36 +162,36 @@
   {
    "name": "'What's your job?' AI street interview",
    "description": "AI-generated people are asked their job or first job; answers reveal making money with AI",
-   "count": 3,
-   "creators": 3,
-   "n_with_views": 3,
-   "median_views": 2762,
-   "vs_deal": 4.0,
-   "too_few_to_call": true,
-   "median_likes_per_1k": 16.7,
+   "count": 19,
+   "creators": 17,
+   "n_with_views": 19,
+   "median_views": 4730,
+   "vs_deal": 1.7,
+   "too_few_to_call": false,
+   "median_likes_per_1k": 24.4,
    "best_examples": [
     {
-     "url": "https://www.tiktok.com/@teetao.hustles/video/7694058886508137748",
-     "creator": "teetao.hustles",
-     "views": 5080
+     "url": "https://www.tiktok.com/@lgn_creates/video/7680443928482532615",
+     "creator": "lgn_creates",
+     "views": 910300
     },
     {
-     "url": "https://www.tiktok.com/@larpingwgio/video/7694457301901593876",
-     "creator": "larpingwgio",
-     "views": 2762
+     "url": "https://www.tiktok.com/@lgn_creates/video/7682249255154650376",
+     "creator": "lgn_creates",
+     "views": 873000
     },
     {
-     "url": "https://www.instagram.com/reel/DeQTawSzDVq/",
-     "creator": "gianlucawins",
-     "views": 1634
+     "url": "https://www.tiktok.com/@lucascreates.ai/video/7692941835957832980",
+     "creator": "lucascreates.ai",
+     "views": 129800
     }
    ],
    "copy_this": {
-    "source_url": "https://www.tiktok.com/@teetao.hustles/video/7694058886508137748",
-    "creator": "teetao.hustles",
-    "views": 5080,
+    "source_url": "https://www.tiktok.com/@lgn_creates/video/7680443928482532615",
+    "creator": "lgn_creates",
+    "views": 910300,
     "note": "Lines are the best example's real transcript and on-screen text, word for word (not written by AI).",
-    "on_screen_text": "BM | HOWMUCH WEMAKE | AS20YEAROLDS | TikTOK | @teetao.hustles | JOB | HOWMUCHWEMAKE | AS2OYEAROLDS | What'syour | HOW MUCHWEMAKE | BMOintern | ATM",
+    "on_screen_text": "HOWMUCHWEMAKEAS | UNISTUDENTS | WATCHTHIS | TikTok | @lgn_creates | JOB | IworkatMcDonald's.",
     "skeleton": []
    },
    "carson": {
@@ -164,38 +200,38 @@
    }
   },
   {
-   "name": "Workflow / how I made this",
-   "description": "Step-by-step tutorial or behind-the-edit showing the tools, prompts and workflow used to make the video",
-   "count": 5,
-   "creators": 4,
-   "n_with_views": 4,
-   "median_views": 1706.5,
-   "vs_deal": 2.5,
-   "too_few_to_call": true,
-   "median_likes_per_1k": 34.2,
+   "name": "'X + Y = $10k/month' formula",
+   "description": "On-screen formula like 'Kids + YT Shorts = $20k/month', 'Airbnb + AI', 'Part Time Job | YouTube + Kids', often '(explained like a caveman)', then a quick ChatGPT/Claude + Higgsfield walkthrough",
+   "count": 37,
+   "creators": 29,
+   "n_with_views": 37,
+   "median_views": 4238,
+   "vs_deal": 1.5,
+   "too_few_to_call": false,
+   "median_likes_per_1k": 44.8,
    "best_examples": [
     {
-     "url": "https://www.tiktok.com/@keanu.visuals/video/7691406611558124833",
-     "creator": "keanu.visuals",
-     "views": 2627
+     "url": "https://www.tiktok.com/@kaleb.hustlez/video/7682980205157158158",
+     "creator": "kaleb.hustlez",
+     "views": 650400
     },
     {
-     "url": "https://www.tiktok.com/@keanu.visuals/video/7693944060205108513",
-     "creator": "keanu.visuals",
-     "views": 2482
+     "url": "https://www.tiktok.com/@buildwithsylass/video/7683742312052067598",
+     "creator": "buildwithsylass",
+     "views": 618900
     },
     {
-     "url": "https://www.tiktok.com/@daniel.creates.ai/video/7694508160270339342",
-     "creator": "daniel.creates.ai",
-     "views": 931
+     "url": "https://www.tiktok.com/@buildwithsylass/video/7686317427944148238",
+     "creator": "buildwithsylass",
+     "views": 426700
     }
    ],
    "copy_this": {
-    "source_url": "https://www.tiktok.com/@keanu.visuals/video/7691406611558124833",
-    "creator": "keanu.visuals",
-    "views": 2627,
+    "source_url": "https://www.tiktok.com/@kaleb.hustlez/video/7682980205157158158",
+    "creator": "kaleb.hustlez",
+    "views": 650400,
     "note": "Lines are the best example's real transcript and on-screen text, word for word (not written by AI).",
-    "on_screen_text": "1SHOT | INFINITEANGLES | AIANGLE01 | SOURCECLIP | TikTok | @keanu.visuals | AIANGLE02",
+    "on_screen_text": "Kids + YT shorts | TikTok | @kaleb.hustlez | But explaining it like | you'reacavemen | 米Claude | you're acavemen",
     "skeleton": []
    },
    "carson": {
@@ -204,68 +240,43 @@
    }
   },
   {
-   "name": "'This professor is crazy' AI lecture",
-   "description": "An AI-generated professor/teacher character explains a money method to a class",
-   "count": 2,
-   "creators": 2,
-   "n_with_views": 2,
-   "median_views": 1540.0,
-   "vs_deal": 2.2,
-   "too_few_to_call": true,
-   "median_likes_per_1k": 10.6,
+   "name": "'AI LARP is here' flex skit",
+   "description": "Overlay 'Higgsfield x Claude / AI LARP IS HERE'; AI-generated flex skit of the creator (private jet, cash, rich lifestyle) presented as larping",
+   "count": 19,
+   "creators": 16,
+   "n_with_views": 19,
+   "median_views": 3137,
+   "vs_deal": 1.1,
+   "too_few_to_call": false,
+   "median_likes_per_1k": 19.4,
    "best_examples": [
     {
-     "url": "https://www.instagram.com/reel/DePhLAWI8BS/",
-     "creator": "earnwithdenes",
-     "views": 2893
+     "url": "https://www.tiktok.com/@higgsfieldpartner/video/7691920147229003026",
+     "creator": "higgsfieldpartner",
+     "views": 30700
     },
     {
-     "url": "https://www.instagram.com/reel/DeQE3nVBEvq/",
-     "creator": "lucas.creates.ai",
-     "views": 187
+     "url": "https://www.tiktok.com/@beann.mp4/video/7689310345541848351",
+     "creator": "beann.mp4",
+     "views": 15100
+    },
+    {
+     "url": "https://www.tiktok.com/@buildwithsylass/video/7690804531986173198",
+     "creator": "buildwithsylass",
+     "views": 11800
     }
    ],
    "copy_this": {
-    "source_url": "https://www.instagram.com/reel/DePhLAWI8BS/",
-    "creator": "earnwithdenes",
-    "views": 2893,
+    "source_url": "https://www.tiktok.com/@higgsfieldpartner/video/7691920147229003026",
+    "creator": "higgsfieldpartner",
+    "views": 30700,
     "note": "Lines are the best example's real transcript and on-screen text, word for word (not written by AI).",
-    "on_screen_text": "am I in the wrong class?? | what are you | am l in the wrong class?? | being rich",
+    "on_screen_text": "Syber jet  just broke the | world record | TikTok | @higgsfieldpartner | CYBERJET | YB | worldrecord | SYB | FIRST",
     "skeleton": [
      {
-      "part": "Hook",
-      "t": 1.1,
-      "line": "What are you dreaming about? Wow you want to be rich. You're sleeping in my class"
-     },
-     {
-      "part": "CTA",
-      "t": 7.9,
-      "line": "This class is a teaching you should all right dumbass. Let me- show you how to make ten thousand dollars a month Go to launch point dot S"
-     },
-     {
       "part": "Benefit",
-      "t": 17.5,
-      "line": "This is a campaign is paying one dollar per one dollar per one dollar per"
-     },
-     {
-      "part": "Method",
-      "t": 22.5,
-      "line": "recreate AI videos like these and post them on Instagram. That's $1,000 for a million viewed Ed to Higgsfield.ai slash influencer. Create your own character"
-     },
-     {
-      "part": "Method",
-      "t": 34.4,
-      "line": "or customize a preset. I'm choosing this guy, turning him into a girl and three videos3. So you have more chances to go"
-     },
-     {
-      "part": "Method",
-      "t": 55.0,
-      "line": "with me, five minutes later you're first AI influencer videos ready to post on Instagram and start making"
-     },
-     {
-      "part": "Benefit",
-      "t": 62.7,
-      "line": "$1000 for every $ This professor is right, I'm gonna post one of"
+      "t": 32.8,
+      "line": "and we obliterated it at 505 miles an hour."
      }
     ]
    },
@@ -275,38 +286,236 @@
    }
   },
   {
-   "name": "Roblox money method",
-   "description": "Making money with Roblox (games, assets or videos) using Higgsfield",
-   "count": 3,
-   "creators": 3,
-   "n_with_views": 2,
-   "median_views": 503.0,
-   "vs_deal": 0.7,
-   "too_few_to_call": true,
-   "median_likes_per_1k": 34.4,
+   "name": "'This professor is crazy' AI lecture",
+   "description": "An AI-generated professor/teacher character explains a money method to a class",
+   "count": 9,
+   "creators": 8,
+   "n_with_views": 9,
+   "median_views": 2893,
+   "vs_deal": 1.0,
+   "too_few_to_call": false,
+   "median_likes_per_1k": 27.2,
    "best_examples": [
     {
-     "url": "https://www.tiktok.com/@buildwithsylass/video/7694504560907373837",
-     "creator": "buildwithsylass",
-     "views": 597
+     "url": "https://www.tiktok.com/@methodswithdylan/video/7678677336337730823",
+     "creator": "methodswithdylan",
+     "views": 4200000
     },
     {
-     "url": "https://www.tiktok.com/@buildwvicki/video/7694394328860413215",
-     "creator": "buildwvicki",
-     "views": 409
+     "url": "https://www.tiktok.com/@methodswithdylan/video/7685231208707411208",
+     "creator": "methodswithdylan",
+     "views": 9666
     },
     {
-     "url": "https://www.instagram.com/reel/Ddfbu-RJwvX/",
-     "creator": "larpwithgio",
-     "views": null
+     "url": "https://www.tiktok.com/@omardreaminai/video/7691307101418769686",
+     "creator": "omardreaminai",
+     "views": 4971
     }
    ],
    "copy_this": {
-    "source_url": "https://www.tiktok.com/@buildwithsylass/video/7694504560907373837",
-    "creator": "buildwithsylass",
-    "views": 597,
+    "source_url": "https://www.tiktok.com/@methodswithdylan/video/7678677336337730823",
+    "creator": "methodswithdylan",
+    "views": 4200000,
     "note": "Lines are the best example's real transcript and on-screen text, word for word (not written by AI).",
-    "on_screen_text": "Thanks-Roblox | TikTok | @build | lass | Thanks Roblox | @buildwiths",
+    "on_screen_text": "who hired bro??? | TikTok | @methodswithdylan | is your tuition? | $10,000 | whohiredbro??? | Ihave$10,000",
+    "skeleton": [
+     {
+      "part": "Hook",
+      "t": 0.0,
+      "line": "How much is your tuition? $10,000."
+     },
+     {
+      "part": "Setup",
+      "t": 2.5,
+      "line": "I have $10,000 business with good reviews but no website. I'm gonna go with this one. Copy all"
+     },
+     {
+      "part": "Method",
+      "t": 15.7,
+      "line": "their info. Now go to hixfield.ai slash mcp. Copy this link and go to cloud. Click customize, click connectors, and paste the link. Now paste all the"
+     },
+     {
+      "part": "Method",
+      "t": 24.5,
+      "line": "business info. Until cloud make a professional website for this business that will convert new customers, including 3D scrolling animation. Five minutes later"
+     },
+     {
+      "part": "Benefit",
+      "t": 31.8,
+      "line": "we have a website like this. Now you just call them and sell it for $500. It will be like what the fuck? This usually costs $3,000. Let's do this."
+     },
+     {
+      "part": "Method",
+      "t": 40.6,
+      "line": "Bro's got to be lying. Just go to Google Maps to find any business"
+     },
+     {
+      "part": "Method",
+      "t": 43.6,
+      "line": "for no website. Call up your all their info."
+     },
+     {
+      "part": "Method",
+      "t": 45.4,
+      "line": "Go to H"
+     }
+    ]
+   },
+   "carson": {
+    "count": 0,
+    "median_views": null
+   }
+  },
+  {
+   "name": "Workflow / how I made this",
+   "description": "Step-by-step tutorial or behind-the-edit showing the tools, prompts and workflow used to make the video",
+   "count": 96,
+   "creators": 82,
+   "n_with_views": 95,
+   "median_views": 1167,
+   "vs_deal": 0.4,
+   "too_few_to_call": false,
+   "median_likes_per_1k": 39.0,
+   "best_examples": [
+    {
+     "url": "https://www.tiktok.com/@daniel.creates.ai/video/7675895181211618591",
+     "creator": "daniel.creates.ai",
+     "views": 7000000
+    },
+    {
+     "url": "https://www.tiktok.com/@rachel_learning_tech/video/7679451185304177951",
+     "creator": "rachel_learning_tech",
+     "views": 1100000
+    },
+    {
+     "url": "https://www.tiktok.com/@andrewscizza/video/7649139021318311190",
+     "creator": "andrewscizza",
+     "views": 560300
+    }
+   ],
+   "copy_this": {
+    "source_url": "https://www.tiktok.com/@daniel.creates.ai/video/7675895181211618591",
+    "creator": "daniel.creates.ai",
+    "views": 7000000,
+    "note": "Lines are the best example's real transcript and on-screen text, word for word (not written by AI).",
+    "on_screen_text": "No waymyprofessor said ts | TikTok | @daniel.creates.ai | handif | No waymy professor said ts | $1,000 | bankaccount.",
+    "skeleton": [
+     {
+      "part": "Hook",
+      "t": 0.0,
+      "line": "Raise your hand if you have less than a thousand dollars in your bank account. Oh shit! You guys broke a spot on that book, so you had to make five hundred and dollars in thirty minutes."
+     },
+     {
+      "part": "Method",
+      "t": 9.4,
+      "line": "First, go to YouTube and search for a kids channel getting millions of views. I'm gonna go with this one. Take a screenshot of the channel, go to hixfield.ai slash super computer."
+     },
+     {
+      "part": "Method",
+      "t": 17.7,
+      "line": "Upload the screenshot and type in, make me a video similar to the ones posted on this on this page, fully edited and hit jittery. A few minutes later we have our own original video ready to post on YouTube."
+     },
+     {
+      "part": "Method",
+      "t": 28.5,
+      "line": "ment. I'm going to have to do this. you'll be pretty. Let me try that. Go to YouTube find any popular YouTube kids channel,"
+     },
+     {
+      "part": "Method",
+      "t": 34.9,
+      "line": "look how many views they're getting, that's how much you do paste per 100k views, screenshot the page, then go to Higgsfield, Diai, Slash Supercomputer, paste the screenshot with this prompt that pressed generate and in a few minutes I got a video just like this."
+     },
+     {
+      "part": "Benefit",
+      "t": 45.2,
+      "line": "And he's right do this once a and for 28 days you can get up to 14 thousand dollars a month so you will be printed. If you follow me for more money-making tips just like this."
+     }
+    ]
+   },
+   "carson": {
+    "count": 0,
+    "median_views": null
+   }
+  },
+  {
+   "name": "'Day N of trying random side hustles'",
+   "description": "Numbered daily series trying side hustles, today's is the Higgsfield method",
+   "count": 29,
+   "creators": 24,
+   "n_with_views": 28,
+   "median_views": 936.0,
+   "vs_deal": 0.3,
+   "too_few_to_call": false,
+   "median_likes_per_1k": 23.2,
+   "best_examples": [
+    {
+     "url": "https://www.tiktok.com/@productivejack/video/7691761334534278430",
+     "creator": "productivejack",
+     "views": 527000
+    },
+    {
+     "url": "https://www.tiktok.com/@buildingwithdrei/video/7693248470555118856",
+     "creator": "buildingwithdrei",
+     "views": 320100
+    },
+    {
+     "url": "https://www.instagram.com/reel/DeSiZthxHF-/",
+     "creator": "createwithkev1",
+     "views": 24160
+    }
+   ],
+   "copy_this": {
+    "source_url": "https://www.tiktok.com/@productivejack/video/7691761334534278430",
+    "creator": "productivejack",
+    "views": 527000,
+    "note": "Lines are the best example's real transcript and on-screen text, word for word (not written by AI).",
+    "on_screen_text": "Day 7 of Testing | RANDOM sidehustles | HIGGSFIELDPLAYS | TikTok | @produetivejack | ROBLOX | YTKIDS | MOMMYASMR | AIONLYFANS",
+    "skeleton": [
+     {
+      "part": "CTA",
+      "t": 38.3,
+      "line": "on roadbox creator hub. If you want to"
+     }
+    ]
+   },
+   "carson": {
+    "count": 0,
+    "median_views": null
+   }
+  },
+  {
+   "name": "Bad / good / best AI tools",
+   "description": "Ranks tools for a task as BAD, GOOD (or better) and BEST/GREAT, e.g. for brainstorming, ending on Higgsfield",
+   "count": 7,
+   "creators": 6,
+   "n_with_views": 7,
+   "median_views": 862,
+   "vs_deal": 0.3,
+   "too_few_to_call": false,
+   "median_likes_per_1k": 38.3,
+   "best_examples": [
+    {
+     "url": "https://www.tiktok.com/@life.withsofi/video/7678716750351011086",
+     "creator": "life.withsofi",
+     "views": 30200
+    },
+    {
+     "url": "https://www.tiktok.com/@hustleswjohn/video/7676027638946761991",
+     "creator": "hustleswjohn",
+     "views": 6403
+    },
+    {
+     "url": "https://www.tiktok.com/@life.withsofi/video/7677650563558837518",
+     "creator": "life.withsofi",
+     "views": 5142
+    }
+   ],
+   "copy_this": {
+    "source_url": "https://www.tiktok.com/@life.withsofi/video/7678716750351011086",
+    "creator": "life.withsofi",
+    "views": 30200,
+    "note": "Lines are the best example's real transcript and on-screen text, word for word (not written by AI).",
+    "on_screen_text": "GOOD | BAD | BEST | TikTok | @life.withsofi | Brainstorming | CHATGPT | CLAUDE",
     "skeleton": []
    },
    "carson": {
@@ -317,157 +526,46 @@
   {
    "name": "Method tease / spilled the beans",
    "description": "Talking-head tease of a secret money 'method' ('watch this method', 'beans have been spilt', 'gatekeep'), then shows Higgsfield",
-   "count": 4,
-   "creators": 4,
-   "n_with_views": 3,
-   "median_views": 445,
-   "vs_deal": 0.6,
-   "too_few_to_call": true,
-   "median_likes_per_1k": 33.0,
+   "count": 43,
+   "creators": 40,
+   "n_with_views": 42,
+   "median_views": 841.0,
+   "vs_deal": 0.3,
+   "too_few_to_call": false,
+   "median_likes_per_1k": 30.5,
    "best_examples": [
     {
-     "url": "https://www.tiktok.com/@creativewithluke/video/7694478006059896094",
+     "url": "https://www.tiktok.com/@creativewithluke/video/7693284541603024159",
      "creator": "creativewithluke",
-     "views": 575
+     "views": 128300
     },
     {
-     "url": "https://www.tiktok.com/@daniel.creates.ai/video/7694504416333892877",
-     "creator": "daniel.creates.ai",
-     "views": 445
+     "url": "https://www.tiktok.com/@mason.bowm/video/7677273217769229588",
+     "creator": "mason.bowm",
+     "views": 23000
     },
     {
-     "url": "https://www.tiktok.com/@haileyrendered/video/7694481449671511309",
-     "creator": "haileyrendered",
-     "views": 307
+     "url": "https://www.tiktok.com/@mikeymethods/video/7689144451922545951",
+     "creator": "mikeymethods",
+     "views": 10600
     }
    ],
    "copy_this": {
-    "source_url": "https://www.tiktok.com/@creativewithluke/video/7694478006059896094",
+    "source_url": "https://www.tiktok.com/@creativewithluke/video/7693284541603024159",
     "creator": "creativewithluke",
-    "views": 575,
+    "views": 128300,
     "note": "Lines are the best example's real transcript and on-screen text, word for word (not written by AI).",
-    "on_screen_text": "TikTok | @creativewithluke | okayIdon'tknow | orsomeone'sgonna | comearrestme",
-    "skeleton": [
-     {
-      "part": "Method",
-      "t": 0.0,
-      "line": "I'm just going to"
-     },
-     {
-      "part": "Method",
-      "t": 2.0,
-      "line": "do a"
-     },
-     {
-      "part": "Method",
-      "t": 4.0,
-      "line": "do a"
-     },
-     {
-      "part": "Method",
-      "t": 6.0,
-      "line": "a"
-     },
-     {
-      "part": "Method",
-      "t": 7.0,
-      "line": "a"
-     },
-     {
-      "part": "Method",
-      "t": 8.0,
-      "line": "a"
-     },
-     {
-      "part": "Method",
-      "t": 9.0,
-      "line": "a"
-     },
-     {
-      "part": "Method",
-      "t": 40.0,
-      "line": "and then go to plugins Gens."
-     }
-    ]
-   },
-   "carson": {
-    "count": 0,
-    "median_views": null
-   }
-  },
-  {
-   "name": "Skip school / quit your job, do this",
-   "description": "Says school or a part-time job is not the way and pitches the Higgsfield method instead",
-   "count": 4,
-   "creators": 4,
-   "n_with_views": 4,
-   "median_views": 410.0,
-   "vs_deal": 0.6,
-   "too_few_to_call": true,
-   "median_likes_per_1k": 34.5,
-   "best_examples": [
-    {
-     "url": "https://www.tiktok.com/@larpingwgio/video/7694513933771787540",
-     "creator": "larpingwgio",
-     "views": 1297
-    },
-    {
-     "url": "https://www.tiktok.com/@buildwithsylass/video/7694398010888932622",
-     "creator": "buildwithsylass",
-     "views": 563
-    },
-    {
-     "url": "https://www.tiktok.com/@buildingwithrohan/video/7694496951450062093",
-     "creator": "buildingwithrohan",
-     "views": 257
-    }
-   ],
-   "copy_this": {
-    "source_url": "https://www.tiktok.com/@larpingwgio/video/7694513933771787540",
-    "creator": "larpingwgio",
-    "views": 1297,
-    "note": "Lines are the best example's real transcript and on-screen text, word for word (not written by AI).",
-    "on_screen_text": "Part-time job | Clipping | $500 | TikTok | @larpingwgio | $500x7 | $3,500 | $500x20 | = $10,000",
+    "on_screen_text": "TikTok | @creativewithluke | I'm kind of scared to | tell you guys this | umI don'tknowif",
     "skeleton": [
      {
       "part": "Hook",
       "t": 0.0,
-      "line": "Every day, every week, every month. Don't get a part time job, do a distance step."
+      "line": "I'm kind of of scared to tell you guys this. I don't know if it's"
      },
      {
-      "part": "Method",
-      "t": 5.2,
-      "line": "Go to YouTube and find your favorite streamer. And click on his most recent video."
-     },
-     {
-      "part": "Method",
-      "t": 8.3,
-      "line": "Now just copy the link. Go to HiggsfieldAi slash MCP."
-     },
-     {
-      "part": "Method",
-      "t": 11.0,
-      "line": "Now click this button. And connect your Higgsfield to cloud."
-     },
-     {
-      "part": "Method",
-      "t": 13.5,
-      "line": "Now paste this prompt in the link. After a few minutes, you'll get clips like this"
-     },
-     {
-      "part": "Benefit",
-      "t": 16.4,
-      "line": "that you can now post onto TikTok. If you get a million views in one video,"
-     },
-     {
-      "part": "Benefit",
-      "t": 19.4,
-      "line": "that's literally $1000. If you want to start clipping,"
-     },
-     {
-      "part": "CTA",
-      "t": 22.3,
-      "line": "comment down clip, and I will send you my free breakdown.ed."
+      "part": "Setup",
+      "t": 10.0,
+      "line": "a little bit of. I"
      }
     ]
    },
@@ -479,78 +577,214 @@
   {
    "name": "'Don't believe everything you see' series",
    "description": "Numbered series revealing that a realistic clip was made with AI",
-   "count": 3,
-   "creators": 2,
-   "n_with_views": 3,
-   "median_views": 381,
-   "vs_deal": 0.6,
-   "too_few_to_call": true,
+   "count": 7,
+   "creators": 3,
+   "n_with_views": 7,
+   "median_views": 676,
+   "vs_deal": 0.2,
+   "too_few_to_call": false,
    "median_likes_per_1k": 29.6,
    "best_examples": [
     {
-     "url": "https://www.tiktok.com/@bryanscalesai/video/7694537698517814549",
-     "creator": "bryanscalesai",
-     "views": 676
+     "url": "https://www.tiktok.com/@samuelinternetmon/video/7688843230624058645",
+     "creator": "samuelinternetmon",
+     "views": 123700
     },
     {
-     "url": "https://www.tiktok.com/@haileyrendered/video/7694513189123329294",
-     "creator": "haileyrendered",
-     "views": 381
+     "url": "https://www.tiktok.com/@samuelinternetmon/video/7694038287345831188",
+     "creator": "samuelinternetmon",
+     "views": 28200
     },
     {
-     "url": "https://www.tiktok.com/@bryanscalesai/video/7694556381592014101",
+     "url": "https://www.tiktok.com/@bryanscalesai/video/7692476155537952020",
      "creator": "bryanscalesai",
-     "views": 150
+     "views": 4233
     }
    ],
    "copy_this": {
-    "source_url": "https://www.tiktok.com/@bryanscalesai/video/7694537698517814549",
-    "creator": "bryanscalesai",
-    "views": 676,
+    "source_url": "https://www.tiktok.com/@samuelinternetmon/video/7688843230624058645",
+    "creator": "samuelinternetmon",
+    "views": 123700,
     "note": "Lines are the best example's real transcript and on-screen text, word for word (not written by AI).",
-    "on_screen_text": "Higgsfield | GENJUTSU | Don'tget Alcatfished | TikTok | @bryanscalesai | Hello again world, today | Real | Comment | \"LARP\" | for theprompt | @bryansealesai | Don'tget Al catfished | appYansoaesa | videotokeepon | fortheprompt",
+    "on_screen_text": "@samuednternetmon | Original | Hiagsfield | @sahelinternetmon | @samuelinternetmon | MECLITRGALLERY",
+    "skeleton": []
+   },
+   "carson": {
+    "count": 0,
+    "median_views": null
+   }
+  },
+  {
+   "name": "Roblox money method",
+   "description": "Making money with Roblox (games, assets or videos) using Higgsfield",
+   "count": 21,
+   "creators": 18,
+   "n_with_views": 20,
+   "median_views": 622.5,
+   "vs_deal": 0.2,
+   "too_few_to_call": false,
+   "median_likes_per_1k": 38.6,
+   "best_examples": [
+    {
+     "url": "https://www.instagram.com/reel/DeHBZGjxu3-/",
+     "creator": "buildwithalexq",
+     "views": 48032
+    },
+    {
+     "url": "https://www.instagram.com/reel/DeC9_DvSpXi/",
+     "creator": "beckohara.ai",
+     "views": 21060
+    },
+    {
+     "url": "https://www.tiktok.com/@ranencreates/video/7687805835430366495",
+     "creator": "ranencreates",
+     "views": 9125
+    }
+   ],
+   "copy_this": {
+    "source_url": "https://www.instagram.com/reel/DeHBZGjxu3-/",
+    "creator": "buildwithalexq",
+    "views": 48032,
+    "note": "Lines are the best example's real transcript and on-screen text, word for word (not written by AI).",
+    "on_screen_text": "Distipline battle | 01:47 | what did I | 01:46",
     "skeleton": [
      {
       "part": "Hook",
-      "t": 0.3,
-      "line": "Hello again world today. I'm back with another video to keep on reminding you guys that do not believe everything you see on the internet"
+      "t": 0.0,
+      "line": "What did I just watch?"
      },
      {
       "part": "Setup",
-      "t": 7.5,
-      "line": "As you can see my nails are even real's"
+      "t": 35.0,
+      "line": "game play clips to attract more players."
      },
      {
       "part": "Setup",
-      "t": 10.2,
-      "line": "Bracelet is not even real. I don't even have a star in my room matter of matter of dog"
-     },
-     {
-      "part": "Setup",
-      "t": 14.7,
-      "line": "It's not even as big but regardless. I want to keep on"
-     },
-     {
-      "part": "Setup",
-      "t": 18.2,
-      "line": "it I'm reminding you guys that please don't believe everything you see on the internet and parents"
+      "t": 37.9,
+      "line": "Then add a bunch of micro transactions so people spend the to the robots."
      },
      {
       "part": "CTA",
-      "t": 21.9,
-      "line": "Please send this to your kid so you can warn them on how it is to fake it nowadays"
-     },
-     {
-      "part": "CTA",
-      "t": 26.9,
-      "line": "Anyways comment the"
-     },
-     {
-      "part": "CTA",
-      "t": 28.1,
-      "line": "word is larb if you want to learn how to do this."
+      "t": 41.0,
+      "line": "If you want to list the tools that I use, just comment RobloAX and I got you."
      }
     ]
+   },
+   "carson": {
+    "count": 0,
+    "median_views": null
+   }
+  },
+  {
+   "name": "Skip school / quit your job, do this",
+   "description": "Says school or a part-time job is not the way and pitches the Higgsfield method instead",
+   "count": 9,
+   "creators": 9,
+   "n_with_views": 9,
+   "median_views": 563,
+   "vs_deal": 0.2,
+   "too_few_to_call": false,
+   "median_likes_per_1k": 37.8,
+   "best_examples": [
+    {
+     "url": "https://www.tiktok.com/@mikeymethods/video/7694400802881932575",
+     "creator": "mikeymethods",
+     "views": 7477
+    },
+    {
+     "url": "https://www.tiktok.com/@sarahmakesfilmss/video/7692565815413017869",
+     "creator": "sarahmakesfilmss",
+     "views": 4650
+    },
+    {
+     "url": "https://www.tiktok.com/@larpingwgio/video/7694513933771787540",
+     "creator": "larpingwgio",
+     "views": 1297
+    }
+   ],
+   "copy_this": {
+    "source_url": "https://www.tiktok.com/@mikeymethods/video/7694400802881932575",
+    "creator": "mikeymethods",
+    "views": 7477,
+    "note": "Lines are the best example's real transcript and on-screen text, word for word (not written by AI).",
+    "on_screen_text": "TikTok | @mikeymethods | school | @mikeymethod | hate | videos",
+    "skeleton": [
+     {
+      "part": "Hook",
+      "t": 0.0,
+      "line": "Fuck school. I hate school. I hate it. I hate it. I just want to make YouTube videos. I feel like school"
+     },
+     {
+      "part": "Setup",
+      "t": 4.6,
+      "line": "Kills your spirit in a way. Do this though. Yeah, what killed your spirit the most is bringing home homework on a weekend, bro"
+     },
+     {
+      "part": "Setup",
+      "t": 11.1,
+      "line": "Oh, I got well like what are you doing to me right now?"
+     },
+     {
+      "part": "Setup",
+      "t": 13.8,
+      "line": "Every single one of these guys are multi millionaires yet none of them have a degree"
+     },
+     {
+      "part": "Setup",
+      "t": 17.5,
+      "line": "So I'm gonna show you the easiest way to make money without the stupid piece of paper"
+     },
+     {
+      "part": "Method",
+      "t": 21.2,
+      "line": "First go to YouTube and search up your favorite streamer now go to their most recent stream and copy their link"
+     },
+     {
+      "part": "Method",
+      "t": 26.0,
+      "line": "Now head over to"
+     }
+    ]
+   },
+   "carson": {
+    "count": 0,
+    "median_views": null
+   }
+  },
+  {
+   "name": "AI LARP boxing / training",
+   "description": "AI-generated version of the creator boxing, fighting or training ('larping'), often with a combo or move",
+   "count": 4,
+   "creators": 4,
+   "n_with_views": 3,
+   "median_views": 2696,
+   "vs_deal": 1.0,
+   "too_few_to_call": true,
+   "median_likes_per_1k": 32.1,
+   "best_examples": [
+    {
+     "url": "https://www.tiktok.com/@liveactionbaki/video/7695059109091036430",
+     "creator": "liveactionbaki",
+     "views": 11900
+    },
+    {
+     "url": "https://www.tiktok.com/@samuelinternetmon/video/7694452863933680948",
+     "creator": "samuelinternetmon",
+     "views": 2696
+    },
+    {
+     "url": "https://www.tiktok.com/@createdbymatt1/video/7694487711251582222",
+     "creator": "createdbymatt1",
+     "views": 156
+    }
+   ],
+   "copy_this": {
+    "source_url": "https://www.tiktok.com/@liveactionbaki/video/7695059109091036430",
+    "creator": "liveactionbaki",
+    "views": 11900,
+    "note": "Lines are the best example's real transcript and on-screen text, word for word (not written by AI).",
+    "on_screen_text": "the ultimate workout that gets me | closer to beating my dad | TikTok | @liveactionbaki",
+    "skeleton": []
    },
    "carson": {
     "count": 0,
@@ -564,7 +798,7 @@
    "creators": 1,
    "n_with_views": 1,
    "median_views": 207,
-   "vs_deal": 0.3,
+   "vs_deal": 0.1,
    "too_few_to_call": true,
    "median_likes_per_1k": 29.0,
    "best_examples": [
@@ -594,38 +828,38 @@
    }
   },
   {
-   "name": "AI LARP boxing / training",
-   "description": "AI-generated version of the creator boxing, fighting or training ('larping'), often with a combo or move",
-   "count": 4,
-   "creators": 3,
-   "n_with_views": 3,
-   "median_views": 156,
-   "vs_deal": 0.2,
-   "too_few_to_call": true,
-   "median_likes_per_1k": 18.2,
+   "name": "None of these",
+   "description": "",
+   "count": 73,
+   "creators": 63,
+   "n_with_views": 72,
+   "median_views": 6079.5,
+   "vs_deal": 2.2,
+   "too_few_to_call": false,
+   "median_likes_per_1k": 25.6,
    "best_examples": [
     {
-     "url": "https://www.tiktok.com/@samuelinternetmon/video/7694452863933680948",
-     "creator": "samuelinternetmon",
-     "views": 2696
+     "url": "https://www.instagram.com/reel/DeSETh5RLRj/",
+     "creator": "sergirodriguz",
+     "views": 1243203
     },
     {
-     "url": "https://www.tiktok.com/@createdbymatt1/video/7694487711251582222",
-     "creator": "createdbymatt1",
-     "views": 156
+     "url": "https://www.tiktok.com/@techwithcole3/video/7690988809088929042",
+     "creator": "techwithcole3",
+     "views": 631900
     },
     {
-     "url": "https://www.tiktok.com/@createdbymatt1/video/7694504108673289486",
-     "creator": "createdbymatt1",
-     "views": 114
+     "url": "https://www.tiktok.com/@matorify041/video/7645660956969798935",
+     "creator": "matorify041",
+     "views": 473700
     }
    ],
    "copy_this": {
-    "source_url": "https://www.tiktok.com/@samuelinternetmon/video/7694452863933680948",
-    "creator": "samuelinternetmon",
-    "views": 2696,
+    "source_url": "https://www.instagram.com/reel/DeSETh5RLRj/",
+    "creator": "sergirodriguz",
+    "views": 1243203,
     "note": "Lines are the best example's real transcript and on-screen text, word for word (not written by AI).",
-    "on_screen_text": "InfluencerIA | TikTok | @samuelinternetm Higgsfield | Original | Hook",
+    "on_screen_text": "",
     "skeleton": []
    },
    "carson": {
@@ -634,45 +868,29 @@
    }
   },
   {
-   "name": "None of these",
+   "name": "(undecoded)",
    "description": "",
-   "count": 12,
-   "creators": 11,
-   "n_with_views": 11,
-   "median_views": 416,
-   "vs_deal": 0.6,
-   "too_few_to_call": false,
-   "median_likes_per_1k": 21.4,
+   "count": 1,
+   "creators": 1,
+   "n_with_views": 1,
+   "median_views": 231283,
+   "vs_deal": 81.8,
+   "too_few_to_call": true,
+   "median_likes_per_1k": 17.4,
    "best_examples": [
     {
-     "url": "https://www.instagram.com/reel/Dd4zuOwRL3V/",
-     "creator": "andyhan.ai",
-     "views": 35602
-    },
-    {
-     "url": "https://www.tiktok.com/@teetao.hustles/video/7694431782011161877",
-     "creator": "teetao.hustles",
-     "views": 29700
-    },
-    {
-     "url": "https://www.instagram.com/reel/DePtjomykW5/",
-     "creator": "earnwithdenes",
-     "views": 11325
+     "url": "https://www.instagram.com/reel/DeRw3h4C-7p/",
+     "creator": "hamoudibinbaba",
+     "views": 231283
     }
    ],
    "copy_this": {
-    "source_url": "https://www.instagram.com/reel/Dd4zuOwRL3V/",
-    "creator": "andyhan.ai",
-    "views": 35602,
+    "source_url": "https://www.instagram.com/reel/DeRw3h4C-7p/",
+    "creator": "hamoudibinbaba",
+    "views": 231283,
     "note": "Lines are the best example's real transcript and on-screen text, word for word (not written by AI).",
-    "on_screen_text": "HiggsfieldGENJUTSU | AILARP (2026) | GenjutsuAl | Okay,thisis thestateofAl | Original | in2026. | Asyoucansee,youcan",
-    "skeleton": [
-     {
-      "part": "Hook",
-      "t": 0.0,
-      "line": "Okay,"
-     }
-    ]
+    "on_screen_text": "",
+    "skeleton": []
    },
    "carson": {
     "count": 0,
